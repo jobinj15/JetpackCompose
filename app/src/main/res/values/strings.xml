@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jetpack compose</string>
+    <string name="title_activity_act_compose">ActCompose</string>
+</resources>
