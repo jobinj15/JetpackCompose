@@ -56,7 +56,7 @@ class ActCompose : ComponentActivity() {
 
 
     private fun openIntent(){
-        val intent : Intent = Intent(this, SnackbarActivity::class.java)
+        val intent : Intent = Intent(this, ConstraintActivity::class.java)
         startActivity(intent)
     }
 
